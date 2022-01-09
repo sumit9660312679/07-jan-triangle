@@ -1,0 +1,28 @@
+body{
+  background-color: green;
+}
+
+div{
+    border-bottom: 140px solid rgb(750, 10, 192);
+    border-left: 100px solid transparent;
+    border-right: 100px solid transparent;
+    width: 0px;
+    position: relative;
+    margin-left: 650px;
+    margin-top: 100px;
+}
+
+.container1{
+    border-bottom: 130px solid red;
+    border-left: 100px solid transparent;
+    border-right: 100px solid transparent;
+    width: 0px;
+    margin-top: -60px;
+}
+.container2{
+    border-bottom: 140px solid black;
+    border-left: 100px solid transparent;
+    border-right: 100px solid transparent;
+    width: 0px;
+    margin-top: -60px;
+}
